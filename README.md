@@ -2,6 +2,7 @@ Name:Jinkala Aparna
 Studying:B Tech-2nd year
 ID :CT08DS6057
 Domain:java programming
+Duration:August 2024
 mentor:Muzammil Ahmed
 
 
