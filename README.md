@@ -7,6 +7,8 @@ mentor:Muzammil Ahmed
 
 
 Java program that functions as a basic calculator
+
+
 How to Run the Program
 Save the Code: Save the code in a file named BasicCalculator.java.
 Compile the Program: Open a terminal or command prompt, navigate to the directory where the file is saved, and run javac BasicCalculator.java to compile it.
